@@ -12,4 +12,4 @@
 ![Image](https://github.com/user-attachments/assets/389c3eda-659d-4b45-8e6a-b155f5ecbba4)
 
 **プレイ動画**
-[![Image](https://github.com/user-attachments/assets/392057ad-bb5d-434c-b830-eb09bba0c639)](https://youtu.be/7wTDX4TUWXs)
+[<img width="538" height="300" alt="Image" src="https://github.com/user-attachments/assets/c607ec22-55f0-4dfd-8729-104f4a43918d" />](https://youtu.be/7wTDX4TUWXs)
