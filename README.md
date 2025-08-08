@@ -6,3 +6,4 @@
 
 プレイ動画など、詳しい情報はこちらへどうぞ
 https://www.notion.so/24135cd48a3481cd9d5ae46bf1b62560?source=copy_link
+![3Dkakuteru mini.mp4 (3).gif](attachment:9d298ab0-a231-4fdc-b8c5-5be2449c947e:3Dkakuteru_mini.mp4_(3).gif)
