@@ -4,5 +4,12 @@
 
 文化祭ということもあり、学生個人や屋台を出店しているサークルに広告の募集をかけたところ、多くの方々に広告を作成していただけました。ありがたい限りです。
 
-プレイ動画など、詳しい情報はこちらへどうぞ
-https://www.notion.so/24135cd48a3481cd9d5ae46bf1b62560?source=copy_link
+![Image](https://github.com/user-attachments/assets/be674af2-3207-4547-ba7f-0f36b0ed7be3)
+![Image](https://github.com/user-attachments/assets/392057ad-bb5d-434c-b830-eb09bba0c639)
+![Image](https://github.com/user-attachments/assets/5f9fba77-6ea7-4879-9d59-9d3c638f4203)
+![Image](https://github.com/user-attachments/assets/2096eba6-52f7-4560-b8d3-0ee9f768dc79)
+![Image](https://github.com/user-attachments/assets/5f458ca7-0efa-4fa4-be02-fb6fc86554d7)
+![Image](https://github.com/user-attachments/assets/389c3eda-659d-4b45-8e6a-b155f5ecbba4)
+
+**プレイ動画**
+[![Image](https://github.com/user-attachments/assets/392057ad-bb5d-434c-b830-eb09bba0c639)](https://youtu.be/7wTDX4TUWXs)
