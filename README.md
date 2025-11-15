@@ -2,6 +2,12 @@
 
 大学の文化祭で展示する作品として個人で開発しました。
 
+
+## プレイ動画
+
+[<img width="538" height="300" alt="Image" src="https://github.com/user-attachments/assets/c607ec22-55f0-4dfd-8729-104f4a43918d" />](https://youtu.be/7wTDX4TUWXs)
+
+
 ## 概要
 
 大量の広告に埋め尽くされた画面から、「✕」ボタンを探し出して消していく、Webサイトの閲覧体験を意識したタイムアタックゲームです。  
@@ -38,7 +44,3 @@ Microsoftが提供しているPlayFabを利用し、オンラインランキン�
 ![Image](https://github.com/user-attachments/assets/2096eba6-52f7-4560-b8d3-0ee9f768dc79)
 ![Image](https://github.com/user-attachments/assets/5f458ca7-0efa-4fa4-be02-fb6fc86554d7)
 ![Image](https://github.com/user-attachments/assets/389c3eda-659d-4b45-8e6a-b155f5ecbba4)
-
-## プレイ動画
-
-[<img width="538" height="300" alt="Image" src="https://github.com/user-attachments/assets/c607ec22-55f0-4dfd-8729-104f4a43918d" />](https://youtu.be/7wTDX4TUWXs)
