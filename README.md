@@ -4,6 +4,8 @@
 『法政大学 第21回デジタルコンテンツ・コンテスト インタラクティブ部門』にて、入選。
 <br>大学の文化祭で展示する作品として個人で開発しました。
 
+![Image](https://github.com/user-attachments/assets/be674af2-3207-4547-ba7f-0f36b0ed7be3)
+
 ## プレイ動画
 
 [<img width="538" height="300" alt="Image" src="https://github.com/user-attachments/assets/c607ec22-55f0-4dfd-8729-104f4a43918d" />](https://youtu.be/7wTDX4TUWXs)
@@ -46,7 +48,6 @@ Microsoftが提供しているPlayFabを利用し、オンラインランキン�
 
 ## プレイ画面
 
-![Image](https://github.com/user-attachments/assets/be674af2-3207-4547-ba7f-0f36b0ed7be3)
 ![Image](https://github.com/user-attachments/assets/392057ad-bb5d-434c-b830-eb09bba0c639)
 ![Image](https://github.com/user-attachments/assets/5f9fba77-6ea7-4879-9d59-9d3c638f4203)
 ![Image](https://github.com/user-attachments/assets/2096eba6-52f7-4560-b8d3-0ee9f768dc79)
